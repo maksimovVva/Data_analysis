@@ -1,2 +1,5 @@
 # Data_analysis
-HSE course 
+HSE course of Data analysis and Machine learning
+
+## Student: Maslennikova Elizaveta
+### Group: 18 IAD
